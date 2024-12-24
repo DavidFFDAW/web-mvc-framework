@@ -1,4 +1,6 @@
 # CakePHP 3
+.htaccess
+.env
 
 /vendor/*
 /config/app.php
